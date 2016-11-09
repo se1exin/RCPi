@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android" >
+    <EditTextPreference android:key="prefIpAddress" android:summary="@string/summaryIpAddress" android:title="@string/titleIpAddress"/>
+    <EditTextPreference android:key="prefPort" android:summary="@string/summaryPort" android:title="@string/titlePort"/>
+    
+
+</PreferenceScreen>
